@@ -1,0 +1,40 @@
+button {
+  background-color: beige;
+  color: chocolate;
+  border: none;
+  font-size: 30px;
+  font-weight: bold;
+  display:block;
+}
+
+img {
+  width: 300px;
+}
+
+label {
+  font-weight: bolder;
+  display: block;
+}
+
+form {
+  background-color: hsla(224, 43%, 40%, 0.65);
+  display: grid;
+  margin-top: 20px;
+  width: 600px;
+}
+
+table,
+td,
+th {
+  border: 1px solid black;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}

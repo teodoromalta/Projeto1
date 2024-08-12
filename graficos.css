@@ -1,0 +1,47 @@
+.produtos {
+
+    display: flex;
+    gap: 40px;
+    flex-grow: initial;
+    justify-content: center;
+}
+
+img {
+    width: 300px;
+}
+
+.produto {
+    background-color: azure;
+}
+
+h2 {
+    font-family: Verdana;
+    color: brown;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+
+body {
+    background-color: rgba(234, 222, 53, 0.797);
+    flex-direction: column;
+}
+
+header {
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 400;
+    color: rgb(142, 11, 53);
+    text-align: center;
+    line-height: 2.5;
+
+}
+footer{
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 400;
+    color: rgb(142, 11, 53);
+    text-align: center;
+    line-height: 2.5;    
+}
